@@ -1,1 +1,2 @@
-# worldcopy
+コピー先のWorldFolderを削除した上で、コピー元からWorldFolderをコピーします。  
+1.7などのコピーして使うタイプのPractice Mapを簡単にコピーできます。
